@@ -4,7 +4,7 @@ This document outlines the sitemap diagram created for Activity 1.
 
 ## Group 15 Members:
 
-* Aljohn Wahid
+* Aljohn Wahid (leader)
 * Karl Benjamin R. Bughaw
 * Suzanne Habitan
 * John Lennon Sanchez

@@ -4,7 +4,7 @@ This document outlines the requirements analysis for the project, as detailed in
 
 ## Group 15 Members:
 
-* Aljohn Wahid
+* Aljohn Wahid (leader)
 * Karl Benjamin R. Bughaw
 * Suzanne Habitan
 * John Lennon Sanchez
