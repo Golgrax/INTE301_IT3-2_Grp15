@@ -1,10 +1,8 @@
-# ano title
+# Group 14
 
 ## ACT 1
-[INTE301_IT3-2_Act1_Grp14.pdf](INTE301_IT3-2_Act1_Grp14.pdf)
-![act1](/INTE301_IT3-2_Act1_Grp14..svg)
-
+### [click here](ACT-1/) *to open the act-1*
 
 ## ACT 2
 
-(COMING SOON)
+### [click here](ACT-2/) *to open the act-2*
