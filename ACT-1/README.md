@@ -1,6 +1,6 @@
 # Activity 1: Sitemap Diagram (Github)
 
-## Group 14:
+## Group 15:
 <br>
 
 ### members:
@@ -14,6 +14,6 @@ Suzanne Habitan
 John Lennon Sanchez
 
 
-[INTE301_IT3-2_Act1_Grp14.pdf](INTE301_IT3-2_Act1_Grp14.pdf)
+[INTE301_IT3-2_Act1_Grp15.pdf](INTE301_IT3-2_Act1_Grp15.pdf)
 
-![ACT-1](INTE301_IT3-2_Act1_Grp14.svg)
+![ACT-1](INTE301_IT3-2_Act1_Grp15.svg)
