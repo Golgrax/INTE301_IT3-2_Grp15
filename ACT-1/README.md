@@ -11,5 +11,5 @@ This document outlines the sitemap diagram created for Activity 1.
 
 ## Files
 
-* [Activity1_SitemapDiagram.pdf](INTE301_IT3-2_Act1_Grp15.pdf): The sitemap diagram in PDF format.
-* [Activity1_SitemapDiagram.svg](INTE301_IT3-2_Act1_Grp15.svg): The sitemap diagram in SVG format.
+* [pdf](INTE301_IT3-2_Act1_Grp15.pdf): ← click to view the sitemap diagram in PDF format. 
+* [svg](INTE301_IT3-2_Act1_Grp15.svg): ← click to view the sitemap diagram in SVG format.
