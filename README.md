@@ -10,10 +10,10 @@ This repository is organized into activities. Each activity has its own director
 
 This activity contains the sitemap diagram for the project.
 
-[View Activity 1](ACT-1/)
+[View Activity 1](ACT-1/) ← click to view
 
 ### Activity 2: Requirements Analysis
 
 This activity contains the requirements analysis for the project.
 
-[View Activity 2](ACT-2/)
+[View Activity 2](ACT-2/) ← click to view
