@@ -1,8 +1,19 @@
-# Group 15
+# INTE301_IT3-2_Grp15
 
-## ACT 1
-### [click here](ACT-1/) *to open the act-1*
+This repository contains the project files for Group 15 in the course INTE301, section IT3-2.
 
-## ACT 2
+## Activities
 
-### [click here](ACT-2/) *to open the act-2*
+This repository is organized into activities. Each activity has its own directory containing the relevant files.
+
+### Activity 1: Sitemap Diagram
+
+This activity contains the sitemap diagram for the project.
+
+[View Activity 1](ACT-1/)
+
+### Activity 2: Requirements Analysis
+
+This activity contains the requirements analysis for the project.
+
+[View Activity 2](ACT-2/)

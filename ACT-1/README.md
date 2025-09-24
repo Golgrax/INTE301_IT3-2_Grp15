@@ -1,19 +1,15 @@
-# Activity 1: Sitemap Diagram (Github)
+# Activity 1: Sitemap Diagram
 
-## Group 15:
-<br>
+This document outlines the sitemap diagram created for Activity 1.
 
-### members:
+## Group 15 Members:
 
-Aljohn Wahid
+* Aljohn Wahid
+* Karl Benjamin R. Bughaw
+* Suzanne Habitan
+* John Lennon Sanchez
 
-Karl Benjamin R. Bughaw
+## Files
 
-Suzanne Habitan
-
-John Lennon Sanchez
-
-
-[INTE301_IT3-2_Act1_Grp15.pdf](INTE301_IT3-2_Act1_Grp15.pdf)
-
-![ACT-1](INTE301_IT3-2_Act1_Grp15.svg)
+* [Activity1_SitemapDiagram.pdf](INTE301_IT3-2_Act1_Grp15.pdf): The sitemap diagram in PDF format.
+* [Activity1_SitemapDiagram.svg](INTE301_IT3-2_Act1_Grp15.svg): The sitemap diagram in SVG format.
